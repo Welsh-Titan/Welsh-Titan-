@@ -1,5 +1,4 @@
 # Welsh-Titan-
-Config
 
     Hi, I’m @Welsh-Titan 
 
